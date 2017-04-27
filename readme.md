@@ -1,10 +1,10 @@
 docker-youtube-dl
 ===
-utility [youtube-dl](https://github.com/rg3/youtube-dl) container for docker.
+utility container for [youtube-dl](https://github.com/rg3/youtube-dl).
 
 ### build image
 ```sh
-docker build -t ivoputzer/youtube-dl .
+docker build -t youtube-dl .
 ```
 
 ### pull image
